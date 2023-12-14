@@ -1,4 +1,4 @@
-import "./test.css"
+import "./Test.css"
 import React from "react";
 function Test(){
 
